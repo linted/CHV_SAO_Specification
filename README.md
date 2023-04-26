@@ -19,9 +19,9 @@ All other [SAO bis v1.69 design guide](https://hackaday.com/2019/03/20/introduci
 
 ## Footprint
 ### SAO side connector
-This is the side you as a SAO creater will be using
+This is the side you as a SAO creater will be using. [Example Kicad Footprint](Badgelife-SAOv169-SAO-2x3.kicad_mod)
 ![SAO Footprint](SAO_footprint.PNG)
 
 ### Badge side connector
-This is what is provided by the main badge
+This is what is provided by the main badge. [Example Kicad Footprint](Badgelife-SAOv169-BADGE-2x3.kicad_mod)
 ![badge Footprint](Badge_footprint.PNG)
